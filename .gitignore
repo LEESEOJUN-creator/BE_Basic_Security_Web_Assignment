@@ -46,7 +46,4 @@ out
 gen
 .gradle
 build
-/build
-.idea
-*.iml
-application.yml
+src/main/resources/application.yml
