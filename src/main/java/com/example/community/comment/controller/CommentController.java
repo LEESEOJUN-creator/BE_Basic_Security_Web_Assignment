@@ -30,6 +30,7 @@ public class CommentController {
     }
     @GetMapping("{postId}")
     public ResponseEntity<CommentResponseDto> getComment(@PathVariable Long postId) {
+        CommentResponseDto responsedto = commentService.
 
     }
 
