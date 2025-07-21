@@ -27,3 +27,4 @@ Notion: https://kimsoobin1602.notion.site/217957a41faf8011aaa8da76eec79cb0?sourc
 구글폼: https://forms.gle/Py3kLEcSf1SBSGG78
 
 #   이서준
+#   https://www.notion.so/intellij-21d37d303437808fa7f7f825aee823ba

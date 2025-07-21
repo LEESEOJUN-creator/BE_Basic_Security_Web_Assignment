@@ -28,12 +28,10 @@ public class CommentController {
         return ResponseEntity.status(HttpStatus.NO_CONTENT).build(); // build는 응답만 반환
 
     }
-    @GetMapping("{postId}")
-    public ResponseEntity<CommentResponseDto> getComment(@PathVariable Long postId) {
-        CommentResponseDto responsedto = commentService.
 
-    }
+
 
 
 }
+
 
